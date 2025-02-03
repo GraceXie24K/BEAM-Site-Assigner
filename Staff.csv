@@ -1,15 +1,15 @@
-,Name,Email Address,Driver,Wednesday 3:00-4:00pm,Tuesday 5:00-6:00pm,Wednesday 2:00-3:00pm,Thursday 12:00-1:00pm,Tuesday 4:00-5:00pm,Thursday 3:30-4:30pm,Thursday 10:55-11:55am,Wednesday 3:30-4:30pm,Wednesday 5:00-6:00pm,Friday 1:30-2:30pm,Friday 1:40-2:40pm,Thursday 4:00-5:00pm,Friday 9:20-10:20am,Tuesday 3:45-4:45pm,Thursday 4:30-5:30pm,Wednesday 4:00-5:00pm,Tuesday 3:30-4:30pm
-0,Emily Yepez,emilyyepez@berkeley.edu,No,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False
-1,Johnny Luu,johnnyluu@berkeley.edu,Yes,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
-2,Charlie Juster,c.juster@berkeley.edu,No,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False,False,False
-3,Safaa Mouline,safaamouline@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+,Name,Email Address,Driver,Wednesday 4:00-5:00pm,Friday 1:40-2:40pm,Friday 9:20-10:20am,Tuesday 5:00-6:00pm,Wednesday 2:00-3:00pm,Thursday 3:30-4:30pm,Friday 1:30-2:30pm,Thursday 4:30-5:30pm,Tuesday 4:00-5:00pm,Thursday 12:00-1:00pm,Tuesday 3:30-4:30pm,Wednesday 3:00-4:00pm,Tuesday 3:45-4:45pm,Wednesday 5:00-6:00pm,Thursday 4:00-5:00pm,Thursday 10:55-11:55am,Wednesday 3:30-4:30pm
+0,Emily Yepez,emilyyepez@berkeley.edu,No,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+1,Johnny Luu,johnnyluu@berkeley.edu,Yes,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+2,Charlie Juster,c.juster@berkeley.edu,No,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True
+3,Safaa Mouline,safaamouline@berkeley.edu,No,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
 4,Nicole Xin,nicolexin@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5,Patricia Suwardi,psuwardi@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 6,Marine,marinelyden@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-7,Akshara Vykunta,aksharav@berkeley.edu,No,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
-8,Sunay Dagli,sunaydagli@berkeley.edu,Yes,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True
+7,Akshara Vykunta,aksharav@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+8,Sunay Dagli,sunaydagli@berkeley.edu,Yes,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,False,True
 9,Kaitlin Corpus ,kraecorpus@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-10,Amrita Rajan,amrita.rajan@berkeley.edu,No,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-11,Anooj Desai,anoojmdesai@berkeley.edu,Yes,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False
-12,Jeong Hoon (Jay) Kim,jaykimturner@berkeley.edu,No,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-13,Daniel Detchev,white_daniell@berkeley.edu,No,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False
+10,Amrita Rajan,amrita.rajan@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+11,Anooj Desai,anoojmdesai@berkeley.edu,Yes,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False
+12,Jeong Hoon (Jay) Kim,jaykimturner@berkeley.edu,No,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+13,Daniel Detchev,white_daniell@berkeley.edu,No,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False
